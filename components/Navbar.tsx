@@ -32,7 +32,7 @@ export default function Navbar() {
         <div className='flex justify-center gap-6 '>
             <Link className='hover:underline' href={'/pizza'}>PIZZA</Link>
             <Link className='hover:underline' href={'/pastries'}>PASTRIES</Link>
-            <Link className='hover:underline' href={'/coffee'}>AMEA'S COFFEE </Link>
+            <Link className='hover:underline' href={'/coffee'}>AMEA COFFEE </Link>
             <Link className='hover:underline' href={'/lunch'}>LUNCH MENU</Link>
             <Link className='hover:underline' href={'/salad'}>SALAD</Link>
             <Link className='hover:underline' href={'/soup'}>SOUP</Link>
